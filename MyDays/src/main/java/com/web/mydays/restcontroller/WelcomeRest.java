@@ -10,7 +10,7 @@ public class WelcomeRest {
 	
 	@RequestMapping("/welcomeRest")
 	public User welcome() {
-		User user = new User("Arvind", "101", 30);
+		User user = new User("Arvind", "101", 30, null);
 		return user;
 	}
 

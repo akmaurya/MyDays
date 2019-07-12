@@ -17,7 +17,7 @@
 						<form:label path="">User Name</form:label>
 					</td>
 					<td>
-						<form:input path="userName"/>
+						<form:input path="userId"/>
 					</td>
 				</tr>
 				<tr>
